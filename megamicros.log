@@ -39,3 +39,60 @@
 [35;21m2025-11-11 13:03:36,425 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (MemoryError): Unable to allocate 625. KiB for an array with shape (8, 20000) and data type int32[0m
 [35;21m2025-11-15 22:33:32,434 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
 [35;21m2025-11-15 22:50:00,237 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
+[35;21m2025-11-16 18:47:04,867 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
+[35;21m2025-11-16 18:49:06,058 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
+[35;21m2025-11-16 18:50:41,696 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
+[35;21m2025-11-16 19:36:22,022 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
+[35;21m2025-11-16 20:10:44,519 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (MemoryError): Unable to allocate 625. KiB for an array with shape (8, 20000) and data type int32[0m
+[35;21m2025-11-16 20:31:11,166 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (ValueError): sleep length must be non-negative[0m
+[35;21m2025-11-16 20:49:39,197 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (MemoryError): Unable to allocate 625. KiB for an array with shape (8, 20000) and data type int32[0m
+[35;21m2025-11-17 14:19:44,584 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (KeyError): 'Unable to synchronously open object (component not found)'[0m
+[35;21m2025-11-17 14:27:16,898 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 14:27:16,912 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 14:27:16,913 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 14:27:16,913 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 14:30:19,079 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:549): Failed to connect to remote server (TimeoutError): timed out during opening handshake[0m
+[35;21m2025-11-17 14:46:03,772 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:300): Halt failed: timed out during opening handshake[0m
+[35;21m2025-11-17 16:01:18,724 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 16:01:18,730 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 16:01:18,752 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 16:40:34,561 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: timed out during opening handshake[0m
+[35;21m2025-11-17 16:40:34,570 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (TimeoutError): timed out during opening handshake[0m
+[35;21m2025-11-17 16:40:34,577 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 16:40:34,578 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 16:42:24,966 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:300): Halt failed: Halt command failed on remote server: There is no listener job or run job to halt[0m
+[35;21m2025-11-17 17:11:35,016 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (MemoryError): Unable to allocate 625. KiB for an array with shape (8, 20000) and data type int32[0m
+[35;21m2025-11-17 17:12:22,423 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (h5.py:629): Quitting run() execution on Exception (OSError): [WinError 1450] Ressources système insuffisantes pour terminer le service demandé[0m
+[35;21m2025-11-17 17:25:06,964 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,966 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:25:06,968 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,971 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,972 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,974 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:06,974 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,976 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,987 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:06,989 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,008 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:07,011 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,013 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:07,023 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,024 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:07,025 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,029 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:07,031 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:238): Server connection failed: [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,033 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,035 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:07,036 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:787): Failed to connect to remote server (ConnectionAbortedError): [Errno 10053] Connect call failed ('10.3.141.1', 9002)[0m
+[35;21m2025-11-17 17:25:07,036 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:808): Failed to set new settings (UnboundLocalError): cannot access local variable 'settings' where it is not associated with a value[0m
+[35;21m2025-11-17 17:25:07,037 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:25:07,038 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:25:07,039 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:25:07,040 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:25:07,040 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:25:07,041 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:200): Unable to connect to remote server 10.3.141.1:9002[0m
+[35;21m2025-11-17 17:37:45,225 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:300): Halt failed: Halt command failed on remote server: There is no listener job or run job to halt[0m
+[35;21m2025-11-17 17:47:38,176 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 17:47:38,176 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 17:47:38,178 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
+[35;21m2025-11-17 17:47:38,178 [0m[30;1m[ERROR]: [0m[31;21min megamicros.log (ws.py:648):  Listening loop stopped due to network error exception (ConnectionClosedError): no close frame received or sent[0m
